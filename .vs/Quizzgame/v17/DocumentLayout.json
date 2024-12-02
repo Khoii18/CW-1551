@@ -3,40 +3,48 @@
   "WorkspaceRootPath": "D:\\C#\\Quizzgame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\Quizzgame\\multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\Quizzgame\\openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\Quizzgame\\openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\quizzgame\\editopenend.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editopenend.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,52 +62,64 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "editopenend.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Quizzgame\\editopenend.cs",
+              "RelativeDocumentMoniker": "editopenend.cs",
+              "ToolTip": "D:\\C#\\Quizzgame\\editopenend.cs [Design]",
+              "RelativeToolTip": "editopenend.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:19:16.088Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "editopenend.cs",
               "DocumentMoniker": "D:\\C#\\Quizzgame\\editopenend.cs",
               "RelativeDocumentMoniker": "editopenend.cs",
               "ToolTip": "D:\\C#\\Quizzgame\\editopenend.cs",
               "RelativeToolTip": "editopenend.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T09:48:38.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "openend.cs",
               "DocumentMoniker": "D:\\C#\\Quizzgame\\openend.cs",
               "RelativeDocumentMoniker": "openend.cs",
               "ToolTip": "D:\\C#\\Quizzgame\\openend.cs",
               "RelativeToolTip": "openend.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T09:50:41.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "editmultiplechoice.cs",
               "DocumentMoniker": "D:\\C#\\Quizzgame\\editmultiplechoice.cs",
               "RelativeDocumentMoniker": "editmultiplechoice.cs",
               "ToolTip": "D:\\C#\\Quizzgame\\editmultiplechoice.cs",
               "RelativeToolTip": "editmultiplechoice.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAwwCAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwFcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-30T03:43:30.11Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "multiplechoice.cs",
               "DocumentMoniker": "D:\\C#\\Quizzgame\\multiplechoice.cs",
               "RelativeDocumentMoniker": "multiplechoice.cs",
               "ToolTip": "D:\\C#\\Quizzgame\\multiplechoice.cs",
               "RelativeToolTip": "multiplechoice.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-28T15:01:05.296Z",
               "EditorCaption": ""
@@ -107,52 +127,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "openend.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Quizzgame\\openend.cs",
-              "RelativeDocumentMoniker": "openend.cs",
-              "ToolTip": "D:\\C#\\Quizzgame\\openend.cs [Design]",
-              "RelativeToolTip": "openend.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T02:23:50.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "multiplechoice.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\Quizzgame\\multiplechoice.cs",
-              "RelativeDocumentMoniker": "multiplechoice.cs",
-              "ToolTip": "D:\\C#\\Quizzgame\\multiplechoice.cs [Design]",
-              "RelativeToolTip": "multiplechoice.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:01:02.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Question.cs",
-              "DocumentMoniker": "D:\\C#\\Quizzgame\\Question.cs",
-              "RelativeDocumentMoniker": "Question.cs",
-              "ToolTip": "D:\\C#\\Quizzgame\\Question.cs",
-              "RelativeToolTip": "Question.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T04:20:51.787Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Creator.cs",
-              "DocumentMoniker": "D:\\C#\\Quizzgame\\Creator.cs",
-              "RelativeDocumentMoniker": "Creator.cs",
-              "ToolTip": "D:\\C#\\Quizzgame\\Creator.cs",
-              "RelativeToolTip": "Creator.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAApwHMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T02:10:35.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\C#\\Quizzgame\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -160,7 +134,71 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T04:15:36.267Z"
+              "WhenOpened": "2024-11-30T04:15:36.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "D:\\C#\\Quizzgame\\Creator.cs",
+              "RelativeDocumentMoniker": "Creator.cs",
+              "ToolTip": "D:\\C#\\Quizzgame\\Creator.cs",
+              "RelativeToolTip": "Creator.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAcwIMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:10:35.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\C#\\Quizzgame\\Question.cs",
+              "RelativeDocumentMoniker": "Question.cs",
+              "ToolTip": "D:\\C#\\Quizzgame\\Question.cs",
+              "RelativeToolTip": "Question.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T04:20:51.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "openend.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Quizzgame\\openend.cs",
+              "RelativeDocumentMoniker": "openend.cs",
+              "ToolTip": "D:\\C#\\Quizzgame\\openend.cs [Design]",
+              "RelativeToolTip": "openend.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T02:23:50.696Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Creator.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Quizzgame\\Creator.cs",
+              "RelativeDocumentMoniker": "Creator.cs",
+              "ToolTip": "D:\\C#\\Quizzgame\\Creator.cs [Design]",
+              "RelativeToolTip": "Creator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:31:10.568Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "editopenend.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\Quizzgame\\editopenend.Designer.cs",
+              "RelativeDocumentMoniker": "editopenend.Designer.cs",
+              "ToolTip": "D:\\C#\\Quizzgame\\editopenend.Designer.cs",
+              "RelativeToolTip": "editopenend.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T03:24:48.426Z",
+              "EditorCaption": ""
             }
           ]
         }

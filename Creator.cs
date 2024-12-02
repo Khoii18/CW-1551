@@ -120,12 +120,12 @@ namespace Quizzgame
                 editmultiplechoice form_editmultiplechoice = new editmultiplechoice(question_bank, index);
                 form_editmultiplechoice.ShowDialog();
             }
-            else if (questionType == "Open-Ended")
+            else if (questionType == "openend")
             {
-                editopenend form_editopenend = new editopenend(question_bank);
+                editopenend form_editopenend = new editopenend(question_bank, index);
                 form_editopenend.ShowDialog();
             }
-            else if (questionType == "True/False")
+            else if (questionType == "truefalse")
             {
                 edittruefalse form_edittruefalse = new edittruefalse(question_bank);
                 form_edittruefalse.ShowDialog();

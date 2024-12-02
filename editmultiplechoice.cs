@@ -88,7 +88,7 @@ namespace Quizzgame
                 }
                 else
                 {
-                    MessageBox.Show("The selected question is not a multiple-choice question.");
+                    MessageBox.Show("The selected question is not a multiplechoice question.");
                 }
             }
             catch (Exception ex)
