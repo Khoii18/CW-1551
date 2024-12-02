@@ -34,14 +34,13 @@ namespace Quizzgame
             rt_question.Clear();
             for (int i = 0; i < question_bank.Count; i++)
             {
-                if (question_bank[i] is OpenEndedQuestion oeq)
+                if (question_bank[i] is OpenEndedQuestion openend)
                 {
-                    rt_question.Text += $"Question {i + 1}: {oeq.QuestionText}\n";
-                    rt_answer.Text += $"  Possible Correct Answers:\n";
+                    rt_question.Text += $"{openend.QuestionText}";
 
-                    for (int j = 0; j < oeq.CorrectAnswers.Length; j++)
+                    for (int j = 0; j < openend.CorrectAnswers.Length; j++)
                     {
-                        rt_answer.Text += $"    - {oeq.CorrectAnswers[j]}\n";
+                        rt_answer.Text += $"{openend.CorrectAnswers[j]}\n";
                     }
 
                     rt_question.Text += "\n";
@@ -50,21 +49,46 @@ namespace Quizzgame
         }
         private void bt_update_Click(object sender, EventArgs e)
         {
-            string[] correctAnswers = rt_answer.Lines;
+            string[] correctAnswers = rt_answer.Lines
+                .Where(line => !string.IsNullOrWhiteSpace(line)) // Lọc bỏ các dòng rỗng
+                .ToArray();
             string question = rt_question.Text.Trim();
 
-            if (string.IsNullOrWhiteSpace(rt_question.Text))
+            // Kiểm tra dữ liệu đầu vào
+            if (string.IsNullOrWhiteSpace(question))
             {
                 MessageBox.Show("Question cannot be empty.");
                 return;
             }
-            if (string.IsNullOrWhiteSpace(rt_answer.Text))
+            if (correctAnswers.Length == 0)
             {
-                MessageBox.Show("Correct Answer cannot be empty.");
+                MessageBox.Show("Correct Answers cannot be empty.");
                 return;
             }
 
-            MessageBox.Show("A new question was updated to question bank");
+            // Kiểm tra chỉ số câu hỏi hợp lệ
+            if (questionIndex >= 0 && questionIndex < question_bank.Count)
+            {
+                // Lấy câu hỏi hiện tại từ question_bank
+                if (question_bank[questionIndex] is OpenEndedQuestion openend)
+                {
+                    // Cập nhật nội dung câu hỏi và câu trả lời đúng
+                    openend.QuestionText = question;
+                    openend.CorrectAnswers = correctAnswers;
+
+                    MessageBox.Show("The question has been updated successfully.");
+                }
+                else
+                {
+                    MessageBox.Show("The selected question is not an OpenEndedQuestion.");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Invalid question index.");
+            }
+            this.Close();
         }
+
     }
 }

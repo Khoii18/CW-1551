@@ -34,6 +34,10 @@ namespace Quizzgame
         {
             CorrectAnswers = correctAnswers;
         }
+        public void UpdateCorrectAnswers(string[] newCorrectAnswers)
+        {
+            CorrectAnswers = newCorrectAnswers;
+        }
     }
     public class TrueFalseQuestion : Question
     {

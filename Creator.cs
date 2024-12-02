@@ -54,9 +54,9 @@ namespace Quizzgame
                 {
                     rt_displayall.Text += $"Question {i + 1}: {multiplechoice.QuestionText}\n";
 
-                    for (int j = 0; j < multiplechoice.Choices.Length; j++)
+                    for (int k = 0; k < multiplechoice.Choices.Length; k++)
                     {
-                        rt_displayall.Text += $"  Choice {j + 1}: {multiplechoice.Choices[j]}\n";
+                        rt_displayall.Text += $"  Choice {k + 1}: {multiplechoice.Choices[k]}\n";
                     }
 
                     rt_displayall.Text += $"  Correct Choice: {multiplechoice.CorrectAnswer + 1}\n\n";

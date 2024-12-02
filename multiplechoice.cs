@@ -65,6 +65,7 @@ namespace Quizzgame
             {
                 MessageBox.Show("Something Wrong");
             }
+            this.Close();
         }
     }
 }

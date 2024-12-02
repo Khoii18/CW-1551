@@ -37,6 +37,8 @@ namespace Quizzgame
 
             question_bank.Add(new OpenEndedQuestion(question, correctAnswers));
             MessageBox.Show("A new question was added to question bank");
+
+            this.Close();
         }
     }
 }

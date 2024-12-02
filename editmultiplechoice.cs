@@ -95,6 +95,7 @@ namespace Quizzgame
             {
                 MessageBox.Show($"An error occurred: {ex.Message}");
             }
+            this.Close();
         }
 
     }
