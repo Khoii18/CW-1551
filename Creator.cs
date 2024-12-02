@@ -127,7 +127,7 @@ namespace Quizzgame
             }
             else if (questionType == "truefalse")
             {
-                edittruefalse form_edittruefalse = new edittruefalse(question_bank);
+                edittruefalse form_edittruefalse = new edittruefalse(question_bank, index);
                 form_edittruefalse.ShowDialog();
             }
             else
