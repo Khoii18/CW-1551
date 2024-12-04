@@ -40,6 +40,8 @@ namespace Quizzgame
             MessageBox.Show("The question has been successfully added!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
             
             rt_truefalseqs.Clear();
+
+            this.Close();
         }
     }
 }

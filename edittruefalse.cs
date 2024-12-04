@@ -7,8 +7,8 @@ namespace Quizzgame
 {
     public partial class edittruefalse : Form
     {
-        private List<Question> question_bank; // Danh sách các câu hỏi
-        private int questionIndex; // Chỉ mục của câu hỏi cần chỉnh sửa
+        private List<Question> question_bank;
+        private int questionIndex;
 
         public edittruefalse(List<Question> question_bank, int index)
         {
