@@ -44,9 +44,10 @@
             // 
             // bt_addquestion
             // 
-            bt_addquestion.Location = new Point(38, 330);
+            bt_addquestion.Location = new Point(92, 902);
+            bt_addquestion.Margin = new Padding(7, 8, 7, 8);
             bt_addquestion.Name = "bt_addquestion";
-            bt_addquestion.Size = new Size(89, 23);
+            bt_addquestion.Size = new Size(216, 63);
             bt_addquestion.TabIndex = 0;
             bt_addquestion.Text = "Add Question";
             bt_addquestion.UseVisualStyleBackColor = true;
@@ -54,70 +55,79 @@
             // 
             // tb_choice1
             // 
-            tb_choice1.Location = new Point(27, 158);
+            tb_choice1.Location = new Point(66, 432);
+            tb_choice1.Margin = new Padding(7, 8, 7, 8);
             tb_choice1.Name = "tb_choice1";
-            tb_choice1.Size = new Size(100, 23);
+            tb_choice1.Size = new Size(237, 47);
             tb_choice1.TabIndex = 1;
             // 
             // tb_choice2
             // 
-            tb_choice2.Location = new Point(27, 203);
+            tb_choice2.Location = new Point(66, 555);
+            tb_choice2.Margin = new Padding(7, 8, 7, 8);
             tb_choice2.Name = "tb_choice2";
-            tb_choice2.Size = new Size(100, 23);
+            tb_choice2.Size = new Size(237, 47);
             tb_choice2.TabIndex = 2;
             // 
             // tb_choice3
             // 
-            tb_choice3.Location = new Point(27, 246);
+            tb_choice3.Location = new Point(66, 672);
+            tb_choice3.Margin = new Padding(7, 8, 7, 8);
             tb_choice3.Name = "tb_choice3";
-            tb_choice3.Size = new Size(100, 23);
+            tb_choice3.Size = new Size(237, 47);
             tb_choice3.TabIndex = 3;
             // 
             // tb_choice4
             // 
-            tb_choice4.Location = new Point(27, 288);
+            tb_choice4.Location = new Point(66, 787);
+            tb_choice4.Margin = new Padding(7, 8, 7, 8);
             tb_choice4.Name = "tb_choice4";
-            tb_choice4.Size = new Size(100, 23);
+            tb_choice4.Size = new Size(237, 47);
             tb_choice4.TabIndex = 4;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(27, 22);
+            label1.Location = new Point(66, 60);
+            label1.Margin = new Padding(7, 0, 7, 0);
             label1.Name = "label1";
-            label1.Size = new Size(88, 15);
+            label1.Size = new Size(218, 41);
             label1.TabIndex = 5;
             label1.Text = "MultipleChoice";
             // 
             // rt_mcquestion
             // 
-            rt_mcquestion.Location = new Point(27, 40);
+            rt_mcquestion.Location = new Point(66, 109);
+            rt_mcquestion.Margin = new Padding(7, 8, 7, 8);
             rt_mcquestion.Name = "rt_mcquestion";
-            rt_mcquestion.Size = new Size(201, 96);
+            rt_mcquestion.Size = new Size(482, 255);
             rt_mcquestion.TabIndex = 6;
             rt_mcquestion.Text = "";
             // 
             // tb_correctanswer
             // 
-            tb_correctanswer.Location = new Point(309, 167);
+            tb_correctanswer.Location = new Point(750, 456);
+            tb_correctanswer.Margin = new Padding(7, 8, 7, 8);
             tb_correctanswer.Name = "tb_correctanswer";
-            tb_correctanswer.Size = new Size(100, 23);
+            tb_correctanswer.Size = new Size(237, 47);
             tb_correctanswer.TabIndex = 7;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(309, 136);
+            label2.Location = new Point(750, 372);
+            label2.Margin = new Padding(7, 0, 7, 0);
             label2.Name = "label2";
-            label2.Size = new Size(88, 15);
+            label2.Size = new Size(220, 41);
             label2.TabIndex = 8;
             label2.Text = "Correct Answer";
             // 
             // multiplechoice
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(17F, 41F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(503, 450);
+            BackColor = SystemColors.ActiveCaption;
+            ClientSize = new Size(1040, 1041);
             Controls.Add(label2);
             Controls.Add(tb_correctanswer);
             Controls.Add(rt_mcquestion);
@@ -127,6 +137,7 @@
             Controls.Add(tb_choice2);
             Controls.Add(tb_choice1);
             Controls.Add(bt_addquestion);
+            Margin = new Padding(7, 8, 7, 8);
             Name = "multiplechoice";
             Text = "MultipleChoice";
             Load += multiplechoice_Load;

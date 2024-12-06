@@ -39,24 +39,27 @@
             // 
             cb_truefalse.FormattingEnabled = true;
             cb_truefalse.Items.AddRange(new object[] { "True", "False" });
-            cb_truefalse.Location = new Point(254, 71);
+            cb_truefalse.Location = new Point(617, 194);
+            cb_truefalse.Margin = new Padding(7, 8, 7, 8);
             cb_truefalse.Name = "cb_truefalse";
-            cb_truefalse.Size = new Size(121, 23);
+            cb_truefalse.Size = new Size(288, 49);
             cb_truefalse.TabIndex = 0;
             // 
             // rt_truefalseqs
             // 
-            rt_truefalseqs.Location = new Point(26, 37);
+            rt_truefalseqs.Location = new Point(63, 101);
+            rt_truefalseqs.Margin = new Padding(7, 8, 7, 8);
             rt_truefalseqs.Name = "rt_truefalseqs";
-            rt_truefalseqs.Size = new Size(193, 187);
+            rt_truefalseqs.Size = new Size(463, 504);
             rt_truefalseqs.TabIndex = 1;
             rt_truefalseqs.Text = "";
             // 
             // bt_addquestion
             // 
-            bt_addquestion.Location = new Point(254, 113);
+            bt_addquestion.Location = new Point(617, 309);
+            bt_addquestion.Margin = new Padding(7, 8, 7, 8);
             bt_addquestion.Name = "bt_addquestion";
-            bt_addquestion.Size = new Size(89, 23);
+            bt_addquestion.Size = new Size(216, 63);
             bt_addquestion.TabIndex = 2;
             bt_addquestion.Text = "Add Question";
             bt_addquestion.UseVisualStyleBackColor = true;
@@ -65,31 +68,35 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(26, 19);
+            label1.Location = new Point(63, 52);
+            label1.Margin = new Padding(7, 0, 7, 0);
             label1.Name = "label1";
-            label1.Size = new Size(111, 15);
+            label1.Size = new Size(280, 41);
             label1.TabIndex = 3;
             label1.Text = "True/False Question";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(254, 40);
+            label2.Location = new Point(617, 109);
+            label2.Margin = new Padding(7, 0, 7, 0);
             label2.Name = "label2";
-            label2.Size = new Size(86, 15);
+            label2.Size = new Size(215, 41);
             label2.TabIndex = 4;
             label2.Text = "correct Answer";
             // 
             // truefalse
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(17F, 41F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(448, 284);
+            BackColor = SystemColors.ActiveCaption;
+            ClientSize = new Size(1088, 776);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(bt_addquestion);
             Controls.Add(rt_truefalseqs);
             Controls.Add(cb_truefalse);
+            Margin = new Padding(7, 8, 7, 8);
             Name = "truefalse";
             Text = "TrueFalse";
             ResumeLayout(false);

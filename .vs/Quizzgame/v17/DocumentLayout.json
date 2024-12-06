@@ -1,62 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C#\\CW-1551\\",
+  "WorkspaceRootPath": "C:\\Users\\anhkh\\Desktop\\Comp1551-Fall24-Code-main\\CW-1551\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\truefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:truefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|c:\\users\\anhkh\\desktop\\comp1551-fall24-code-main\\cw-1551\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\CW-1551\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|c:\\users\\anhkh\\desktop\\comp1551-fall24-code-main\\cw-1551\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\CW-1551\\edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\CW-1551\\truefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:truefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\editopenend.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editopenend.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,180 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Player.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\Player.cs",
-              "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\Player.cs [Design]",
-              "RelativeToolTip": "Player.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T07:04:17.653Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Player.cs",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\Player.cs",
-              "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\Player.cs",
-              "RelativeToolTip": "Player.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAkwIMAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T07:09:50.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Creator.cs",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\Creator.cs",
+              "DocumentMoniker": "C:\\Users\\anhkh\\Desktop\\Comp1551-Fall24-Code-main\\CW-1551\\Creator.cs",
               "RelativeDocumentMoniker": "Creator.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\Creator.cs",
+              "ToolTip": "C:\\Users\\anhkh\\Desktop\\Comp1551-Fall24-Code-main\\CW-1551\\Creator.cs",
               "RelativeToolTip": "Creator.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowEYAAABVAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T02:10:35.91Z",
+              "WhenOpened": "2024-12-06T04:37:22.197Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "edittruefalse.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\edittruefalse.cs",
-              "RelativeDocumentMoniker": "edittruefalse.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\edittruefalse.cs [Design]",
-              "RelativeToolTip": "edittruefalse.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:00:32.151Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Question.cs",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\Question.cs",
-              "RelativeDocumentMoniker": "Question.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\Question.cs",
-              "RelativeToolTip": "Question.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T04:20:51.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Creator.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\Creator.cs",
+              "DocumentMoniker": "C:\\Users\\anhkh\\Desktop\\Comp1551-Fall24-Code-main\\CW-1551\\Creator.cs",
               "RelativeDocumentMoniker": "Creator.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\Creator.cs [Design]",
+              "ToolTip": "C:\\Users\\anhkh\\Desktop\\Comp1551-Fall24-Code-main\\CW-1551\\Creator.cs [Design]",
               "RelativeToolTip": "Creator.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T03:31:10.568Z",
+              "WhenOpened": "2024-12-06T04:24:48.918Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "edittruefalse.cs",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\edittruefalse.cs",
-              "RelativeDocumentMoniker": "edittruefalse.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\edittruefalse.cs",
-              "RelativeToolTip": "edittruefalse.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwDsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:00:11.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "truefalse.cs [Design]",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\truefalse.cs",
-              "RelativeDocumentMoniker": "truefalse.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\truefalse.cs [Design]",
-              "RelativeToolTip": "truefalse.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:00:57.57Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "truefalse.cs",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\truefalse.cs",
-              "RelativeDocumentMoniker": "truefalse.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\truefalse.cs",
-              "RelativeToolTip": "truefalse.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAlwCsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:00:19.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "multiplechoice.cs",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\multiplechoice.cs",
-              "RelativeDocumentMoniker": "multiplechoice.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\multiplechoice.cs",
-              "RelativeToolTip": "multiplechoice.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAgwEMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T15:01:05.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "editmultiplechoice.cs",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\editmultiplechoice.cs",
-              "RelativeDocumentMoniker": "editmultiplechoice.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\editmultiplechoice.cs",
-              "RelativeToolTip": "editmultiplechoice.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAASwGIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T03:43:30.11Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "editopenend.cs",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\editopenend.cs",
-              "RelativeDocumentMoniker": "editopenend.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\editopenend.cs",
-              "RelativeToolTip": "editopenend.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAD4v1kAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:48:38.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "openend.cs",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\openend.cs",
-              "RelativeDocumentMoniker": "openend.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\openend.cs",
-              "RelativeToolTip": "openend.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:50:41.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "editopenend.Designer.cs",
-              "DocumentMoniker": "D:\\C#\\CW-1551\\editopenend.Designer.cs",
-              "RelativeDocumentMoniker": "editopenend.Designer.cs",
-              "ToolTip": "D:\\C#\\CW-1551\\editopenend.Designer.cs",
-              "RelativeToolTip": "editopenend.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T03:24:48.426Z",
-              "EditorCaption": ""
             }
           ]
         }

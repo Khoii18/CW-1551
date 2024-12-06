@@ -37,9 +37,10 @@
             // 
             // bt_add
             // 
-            bt_add.Location = new Point(140, 322);
+            bt_add.Location = new Point(340, 880);
+            bt_add.Margin = new Padding(7, 8, 7, 8);
             bt_add.Name = "bt_add";
-            bt_add.Size = new Size(91, 23);
+            bt_add.Size = new Size(221, 63);
             bt_add.TabIndex = 0;
             bt_add.Text = "Add Question";
             bt_add.UseVisualStyleBackColor = true;
@@ -47,48 +48,54 @@
             // 
             // rt_question
             // 
-            rt_question.Location = new Point(47, 74);
+            rt_question.Location = new Point(114, 202);
+            rt_question.Margin = new Padding(7, 8, 7, 8);
             rt_question.Name = "rt_question";
-            rt_question.Size = new Size(264, 99);
+            rt_question.Size = new Size(635, 264);
             rt_question.TabIndex = 1;
             rt_question.Text = "";
             // 
             // rt_answer
             // 
-            rt_answer.Location = new Point(47, 214);
+            rt_answer.Location = new Point(114, 585);
+            rt_answer.Margin = new Padding(7, 8, 7, 8);
             rt_answer.Name = "rt_answer";
-            rt_answer.Size = new Size(264, 89);
+            rt_answer.Size = new Size(635, 236);
             rt_answer.TabIndex = 2;
             rt_answer.Text = "";
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(50, 56);
+            label1.Location = new Point(121, 153);
+            label1.Margin = new Padding(7, 0, 7, 0);
             label1.Name = "label1";
-            label1.Size = new Size(55, 15);
+            label1.Size = new Size(139, 41);
             label1.TabIndex = 3;
             label1.Text = "Question";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(50, 196);
+            label2.Location = new Point(121, 536);
+            label2.Margin = new Padding(7, 0, 7, 0);
             label2.Name = "label2";
-            label2.Size = new Size(46, 15);
+            label2.Size = new Size(115, 41);
             label2.TabIndex = 4;
             label2.Text = "Answer";
             // 
             // openend
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(17F, 41F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(403, 410);
+            BackColor = SystemColors.ActiveCaption;
+            ClientSize = new Size(979, 1121);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(rt_answer);
             Controls.Add(rt_question);
             Controls.Add(bt_add);
+            Margin = new Padding(7, 8, 7, 8);
             Name = "openend";
             Text = "OpenEndQuestion";
             ResumeLayout(false);
