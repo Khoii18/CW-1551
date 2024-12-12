@@ -68,7 +68,7 @@ namespace Quizzgame
 
                     for (int j = 0; j < openend.CorrectAnswers.Length; j++)
                     {
-                        rt_displayall.Text += $"    - {openend.CorrectAnswers[j]}\n";
+                        rt_displayall.Text += $"     {openend.CorrectAnswers[j]}\n";
                     }
 
                     rt_displayall.Text += "\n";

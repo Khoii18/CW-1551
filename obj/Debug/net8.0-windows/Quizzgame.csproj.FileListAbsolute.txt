@@ -73,3 +73,4 @@ D:\C#\CW-1551\obj\Debug\net8.0-windows\refint\Quizzgame.dll
 D:\C#\CW-1551\obj\Debug\net8.0-windows\Quizzgame.pdb
 D:\C#\CW-1551\obj\Debug\net8.0-windows\Quizzgame.genruntimeconfig.cache
 D:\C#\CW-1551\obj\Debug\net8.0-windows\ref\Quizzgame.dll
+D:\C#\CW-1551\obj\Debug\net8.0-windows\Quizzgame.Properties.Resources.resources

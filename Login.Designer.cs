@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             bt_login = new Button();
             lb_username = new Label();
             lb_password = new Label();
@@ -39,10 +40,9 @@
             // 
             // bt_login
             // 
-            bt_login.Location = new Point(372, 629);
-            bt_login.Margin = new Padding(7, 8, 7, 8);
+            bt_login.Location = new Point(153, 230);
             bt_login.Name = "bt_login";
-            bt_login.Size = new Size(182, 63);
+            bt_login.Size = new Size(75, 23);
             bt_login.TabIndex = 0;
             bt_login.Text = "Login";
             bt_login.UseVisualStyleBackColor = true;
@@ -51,65 +51,60 @@
             // lb_username
             // 
             lb_username.AutoSize = true;
-            lb_username.Location = new Point(66, 221);
-            lb_username.Margin = new Padding(7, 0, 7, 0);
+            lb_username.Location = new Point(27, 81);
             lb_username.Name = "lb_username";
-            lb_username.Size = new Size(152, 41);
+            lb_username.Size = new Size(60, 15);
             lb_username.TabIndex = 1;
             lb_username.Text = "Username";
             // 
             // lb_password
             // 
             lb_password.AutoSize = true;
-            lb_password.Location = new Point(66, 358);
-            lb_password.Margin = new Padding(7, 0, 7, 0);
+            lb_password.Location = new Point(27, 131);
             lb_password.Name = "lb_password";
-            lb_password.Size = new Size(143, 41);
+            lb_password.Size = new Size(57, 15);
             lb_password.TabIndex = 2;
             lb_password.Text = "Password";
             // 
             // lb_role
             // 
             lb_role.AutoSize = true;
-            lb_role.Location = new Point(100, 497);
-            lb_role.Margin = new Padding(7, 0, 7, 0);
+            lb_role.Location = new Point(27, 182);
             lb_role.Name = "lb_role";
-            lb_role.Size = new Size(76, 41);
+            lb_role.Size = new Size(89, 15);
             lb_role.TabIndex = 3;
-            lb_role.Text = "Role";
+            lb_role.Text = "Login with Role";
             // 
             // tb_username
             // 
-            tb_username.Location = new Point(311, 213);
-            tb_username.Margin = new Padding(7, 8, 7, 8);
+            tb_username.Location = new Point(128, 78);
             tb_username.Name = "tb_username";
-            tb_username.Size = new Size(237, 47);
+            tb_username.Size = new Size(100, 23);
             tb_username.TabIndex = 4;
             // 
             // tb_password
             // 
-            tb_password.Location = new Point(311, 350);
-            tb_password.Margin = new Padding(7, 8, 7, 8);
+            tb_password.Location = new Point(128, 128);
             tb_password.Name = "tb_password";
-            tb_password.Size = new Size(237, 47);
+            tb_password.Size = new Size(100, 23);
             tb_password.TabIndex = 5;
             // 
             // cb_role
             // 
             cb_role.FormattingEnabled = true;
             cb_role.Items.AddRange(new object[] { "Creator", "Player" });
-            cb_role.Location = new Point(311, 489);
-            cb_role.Margin = new Padding(7, 8, 7, 8);
+            cb_role.Location = new Point(128, 179);
             cb_role.Name = "cb_role";
-            cb_role.Size = new Size(237, 49);
+            cb_role.Size = new Size(100, 23);
             cb_role.TabIndex = 6;
             // 
             // Login
             // 
-            AutoScaleDimensions = new SizeF(17F, 41F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
-            ClientSize = new Size(1071, 1058);
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            ClientSize = new Size(370, 348);
             Controls.Add(cb_role);
             Controls.Add(tb_password);
             Controls.Add(tb_username);
@@ -117,7 +112,6 @@
             Controls.Add(lb_password);
             Controls.Add(lb_username);
             Controls.Add(bt_login);
-            Margin = new Padding(7, 8, 7, 8);
             Name = "Login";
             Text = "LoginForm";
             Load += Login_Load;

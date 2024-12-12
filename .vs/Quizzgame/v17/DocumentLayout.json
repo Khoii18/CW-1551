@@ -1,13 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\anhkh\\Desktop\\Comp1551-Fall24-Code-main\\CW-1551\\",
+  "WorkspaceRootPath": "D:\\C#\\CW-1551\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|c:\\users\\anhkh\\desktop\\comp1551-fall24-code-main\\cw-1551\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\CW-1551\\edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:edittruefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\CW-1551\\editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editopenend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\CW-1551\\editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:editmultiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|c:\\users\\anhkh\\desktop\\comp1551-fall24-code-main\\cw-1551\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\CW-1551\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\truefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:truefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\CW-1551\\truefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:truefalse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\CW-1551\\openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:openend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|d:\\c#\\cw-1551\\multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\CW-1551\\multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:multiplechoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|D:\\C#\\CW-1551\\creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A6EDD288-5DA5-429F-9E34-EC22582D7BBF}|Quizzgame.csproj|solutionrelative:creator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -27,27 +99,240 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Creator.cs",
-              "DocumentMoniker": "C:\\Users\\anhkh\\Desktop\\Comp1551-Fall24-Code-main\\CW-1551\\Creator.cs",
-              "RelativeDocumentMoniker": "Creator.cs",
-              "ToolTip": "C:\\Users\\anhkh\\Desktop\\Comp1551-Fall24-Code-main\\CW-1551\\Creator.cs",
-              "RelativeToolTip": "Creator.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Title": "edittruefalse.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\edittruefalse.cs",
+              "RelativeDocumentMoniker": "edittruefalse.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\edittruefalse.cs [Design]",
+              "RelativeToolTip": "edittruefalse.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:37:22.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-08T13:29:06.265Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Creator.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\anhkh\\Desktop\\Comp1551-Fall24-Code-main\\CW-1551\\Creator.cs",
+              "Title": "Player.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\Player.cs [Design]",
+              "RelativeToolTip": "Player.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:29:11.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\Player.cs",
+              "RelativeDocumentMoniker": "Player.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\Player.cs",
+              "RelativeToolTip": "Player.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAwwIcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:59:49.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\Question.cs",
+              "RelativeDocumentMoniker": "Question.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\Question.cs",
+              "RelativeToolTip": "Question.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAuwDMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:58:49.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "editopenend.cs",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\editopenend.cs",
+              "RelativeDocumentMoniker": "editopenend.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\editopenend.cs",
+              "RelativeToolTip": "editopenend.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowFAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:18:08.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "editmultiplechoice.cs",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\editmultiplechoice.cs",
+              "RelativeDocumentMoniker": "editmultiplechoice.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\editmultiplechoice.cs",
+              "RelativeToolTip": "editmultiplechoice.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwFoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:20:42.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "editmultiplechoice.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\editmultiplechoice.cs",
+              "RelativeDocumentMoniker": "editmultiplechoice.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\editmultiplechoice.cs [Design]",
+              "RelativeToolTip": "editmultiplechoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:29:07.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "editopenend.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\editopenend.cs",
+              "RelativeDocumentMoniker": "editopenend.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\editopenend.cs [Design]",
+              "RelativeToolTip": "editopenend.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:29:06.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Creator.cs",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\Creator.cs",
               "RelativeDocumentMoniker": "Creator.cs",
-              "ToolTip": "C:\\Users\\anhkh\\Desktop\\Comp1551-Fall24-Code-main\\CW-1551\\Creator.cs [Design]",
+              "ToolTip": "D:\\C#\\CW-1551\\Creator.cs",
+              "RelativeToolTip": "Creator.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAIwIsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:26:54.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:14:57.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "edittruefalse.cs",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\edittruefalse.cs",
+              "RelativeDocumentMoniker": "edittruefalse.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\edittruefalse.cs",
+              "RelativeToolTip": "edittruefalse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:21:16.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:29:04.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "multiplechoice.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\multiplechoice.cs",
+              "RelativeDocumentMoniker": "multiplechoice.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\multiplechoice.cs [Design]",
+              "RelativeToolTip": "multiplechoice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:29:33.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "openend.cs",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\openend.cs",
+              "RelativeDocumentMoniker": "openend.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\openend.cs",
+              "RelativeToolTip": "openend.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:34:11.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "multiplechoice.cs",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\multiplechoice.cs",
+              "RelativeDocumentMoniker": "multiplechoice.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\multiplechoice.cs",
+              "RelativeToolTip": "multiplechoice.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowD4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:41:15.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "openend.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\openend.cs",
+              "RelativeDocumentMoniker": "openend.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\openend.cs [Design]",
+              "RelativeToolTip": "openend.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:29:10.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "truefalse.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\truefalse.cs",
+              "RelativeDocumentMoniker": "truefalse.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\truefalse.cs [Design]",
+              "RelativeToolTip": "truefalse.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:29:26.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "truefalse.cs",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\truefalse.cs",
+              "RelativeDocumentMoniker": "truefalse.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\truefalse.cs",
+              "RelativeToolTip": "truefalse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:50:59.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:14:22.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Creator.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\CW-1551\\Creator.cs",
+              "RelativeDocumentMoniker": "Creator.cs",
+              "ToolTip": "D:\\C#\\CW-1551\\Creator.cs [Design]",
               "RelativeToolTip": "Creator.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-06T04:24:48.918Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-12-08T13:29:00.585Z"
             }
           ]
         }

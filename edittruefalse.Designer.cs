@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(edittruefalse));
             label2 = new Label();
             label1 = new Label();
             rt_truefalseqs = new RichTextBox();
@@ -38,29 +39,26 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(634, 137);
-            label2.Margin = new Padding(7, 0, 7, 0);
+            label2.Location = new Point(261, 50);
             label2.Name = "label2";
-            label2.Size = new Size(215, 41);
+            label2.Size = new Size(86, 15);
             label2.TabIndex = 9;
             label2.Text = "correct Answer";
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(80, 79);
-            label1.Margin = new Padding(7, 0, 7, 0);
+            label1.Location = new Point(33, 29);
             label1.Name = "label1";
-            label1.Size = new Size(280, 41);
+            label1.Size = new Size(111, 15);
             label1.TabIndex = 8;
             label1.Text = "True/False Question";
             // 
             // rt_truefalseqs
             // 
-            rt_truefalseqs.Location = new Point(80, 128);
-            rt_truefalseqs.Margin = new Padding(7, 8, 7, 8);
+            rt_truefalseqs.Location = new Point(33, 47);
             rt_truefalseqs.Name = "rt_truefalseqs";
-            rt_truefalseqs.Size = new Size(463, 504);
+            rt_truefalseqs.Size = new Size(193, 187);
             rt_truefalseqs.TabIndex = 6;
             rt_truefalseqs.Text = "";
             // 
@@ -68,18 +66,16 @@
             // 
             cb_truefalse.FormattingEnabled = true;
             cb_truefalse.Items.AddRange(new object[] { "True", "False" });
-            cb_truefalse.Location = new Point(634, 221);
-            cb_truefalse.Margin = new Padding(7, 8, 7, 8);
+            cb_truefalse.Location = new Point(261, 81);
             cb_truefalse.Name = "cb_truefalse";
-            cb_truefalse.Size = new Size(288, 49);
+            cb_truefalse.Size = new Size(121, 23);
             cb_truefalse.TabIndex = 5;
             // 
             // bt_update
             // 
-            bt_update.Location = new Point(746, 350);
-            bt_update.Margin = new Padding(7, 8, 7, 8);
+            bt_update.Location = new Point(307, 128);
             bt_update.Name = "bt_update";
-            bt_update.Size = new Size(182, 63);
+            bt_update.Size = new Size(75, 23);
             bt_update.TabIndex = 10;
             bt_update.Text = "Update";
             bt_update.UseVisualStyleBackColor = true;
@@ -87,16 +83,16 @@
             // 
             // edittruefalse
             // 
-            AutoScaleDimensions = new SizeF(17F, 41F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
-            ClientSize = new Size(1060, 790);
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            ClientSize = new Size(436, 289);
             Controls.Add(bt_update);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(rt_truefalseqs);
             Controls.Add(cb_truefalse);
-            Margin = new Padding(7, 8, 7, 8);
             Name = "edittruefalse";
             Text = "edittruefalse";
             ResumeLayout(false);

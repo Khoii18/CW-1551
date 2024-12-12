@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Creator));
             rt_displayall = new RichTextBox();
             bt_add = new Button();
             bt_edit = new Button();
@@ -39,20 +40,18 @@
             // 
             // rt_displayall
             // 
-            rt_displayall.Location = new Point(53, 156);
-            rt_displayall.Margin = new Padding(7, 8, 7, 8);
+            rt_displayall.Location = new Point(22, 57);
             rt_displayall.Name = "rt_displayall";
-            rt_displayall.Size = new Size(541, 890);
+            rt_displayall.Size = new Size(225, 328);
             rt_displayall.TabIndex = 0;
             rt_displayall.Text = "";
             // 
             // bt_add
             // 
             bt_add.AllowDrop = true;
-            bt_add.Location = new Point(935, 153);
-            bt_add.Margin = new Padding(7, 8, 7, 8);
+            bt_add.Location = new Point(385, 56);
             bt_add.Name = "bt_add";
-            bt_add.Size = new Size(182, 63);
+            bt_add.Size = new Size(75, 23);
             bt_add.TabIndex = 1;
             bt_add.Text = "Add";
             bt_add.UseVisualStyleBackColor = true;
@@ -60,10 +59,9 @@
             // 
             // bt_edit
             // 
-            bt_edit.Location = new Point(935, 514);
-            bt_edit.Margin = new Padding(7, 8, 7, 8);
+            bt_edit.Location = new Point(385, 188);
             bt_edit.Name = "bt_edit";
-            bt_edit.Size = new Size(182, 63);
+            bt_edit.Size = new Size(75, 23);
             bt_edit.TabIndex = 2;
             bt_edit.Text = "Edit";
             bt_edit.UseVisualStyleBackColor = true;
@@ -71,10 +69,9 @@
             // 
             // bt_delete
             // 
-            bt_delete.Location = new Point(935, 336);
-            bt_delete.Margin = new Padding(7, 8, 7, 8);
+            bt_delete.Location = new Point(385, 123);
             bt_delete.Name = "bt_delete";
-            bt_delete.Size = new Size(182, 63);
+            bt_delete.Size = new Size(75, 23);
             bt_delete.TabIndex = 3;
             bt_delete.Text = "Delete";
             bt_delete.UseVisualStyleBackColor = true;
@@ -84,18 +81,16 @@
             // 
             cb_type.FormattingEnabled = true;
             cb_type.Items.AddRange(new object[] { "multiplechoice", "openend", "truefalse" });
-            cb_type.Location = new Point(614, 156);
-            cb_type.Margin = new Padding(7, 8, 7, 8);
+            cb_type.Location = new Point(253, 57);
             cb_type.Name = "cb_type";
-            cb_type.Size = new Size(288, 49);
+            cb_type.Size = new Size(121, 23);
             cb_type.TabIndex = 4;
             // 
             // bt_displayall
             // 
-            bt_displayall.Location = new Point(670, 287);
-            bt_displayall.Margin = new Padding(7, 8, 7, 8);
+            bt_displayall.Location = new Point(276, 105);
             bt_displayall.Name = "bt_displayall";
-            bt_displayall.Size = new Size(182, 63);
+            bt_displayall.Size = new Size(75, 23);
             bt_displayall.TabIndex = 5;
             bt_displayall.Text = "Display All";
             bt_displayall.UseVisualStyleBackColor = true;
@@ -103,18 +98,18 @@
             // 
             // tb_index
             // 
-            tb_index.Location = new Point(935, 623);
-            tb_index.Margin = new Padding(7, 8, 7, 8);
+            tb_index.Location = new Point(385, 228);
             tb_index.Name = "tb_index";
-            tb_index.Size = new Size(108, 47);
+            tb_index.Size = new Size(47, 23);
             tb_index.TabIndex = 6;
             // 
             // Creator
             // 
-            AutoScaleDimensions = new SizeF(17F, 41F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.ActiveCaption;
-            ClientSize = new Size(1189, 1206);
+            BackgroundImage = (Image)resources.GetObject("$this.BackgroundImage");
+            ClientSize = new Size(510, 431);
             Controls.Add(tb_index);
             Controls.Add(bt_displayall);
             Controls.Add(cb_type);
@@ -122,7 +117,6 @@
             Controls.Add(bt_edit);
             Controls.Add(bt_add);
             Controls.Add(rt_displayall);
-            Margin = new Padding(7, 8, 7, 8);
             Name = "Creator";
             Text = "CreatorForm";
             ResumeLayout(false);

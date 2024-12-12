@@ -21,13 +21,13 @@ namespace Quizzgame
             {
                 if (cb_role.Text == "Creator")
                 {
-                    MessageBox.Show("Login with Creator Role");
+                    MessageBox.Show("Login as Creator");
                     form_creator.ShowDialog();
 
                 }
                 if (cb_role.Text == "Player")
                 {
-                    MessageBox.Show("Login with Player Role");
+                    MessageBox.Show("Login as Player");
                     Player form_player = new Player(form_creator.question_bank);
                     form_player.ShowDialog();
                 }

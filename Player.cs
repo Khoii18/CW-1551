@@ -118,7 +118,7 @@ namespace Quizzgame
                     else
                     {
                         stopwatch.Stop();
-                        string yourGrade = $"Quiz Complete! Your Grade: {grade}/{question_bank.Count}; Time spent: {stopwatch.Elapsed.TotalMinutes:F2} minutes.";
+                        string yourGrade = $"Quizz Complete! Total Grade: {grade}/{question_bank.Count};Total Time spent: {stopwatch.Elapsed.TotalMinutes:F2} minutes.";
                         MessageBox.Show(yourGrade);
 
                         indexQuestion = 0;

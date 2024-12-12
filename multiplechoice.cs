@@ -19,11 +19,6 @@ namespace Quizzgame
             this.question_bank = question_bank;
         }
 
-        private void multiplechoice_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private void bt_addquestion_Click(object sender, EventArgs e)
         {
             try

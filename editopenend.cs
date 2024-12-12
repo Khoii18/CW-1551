@@ -54,7 +54,6 @@ namespace Quizzgame
                 .ToArray();
             string question = rt_question.Text.Trim();
 
-            // Kiểm tra dữ liệu đầu vào
             if (string.IsNullOrWhiteSpace(question))
             {
                 MessageBox.Show("Question cannot be empty.");
@@ -66,13 +65,10 @@ namespace Quizzgame
                 return;
             }
 
-            // Kiểm tra chỉ số câu hỏi hợp lệ
             if (questionIndex >= 0 && questionIndex < question_bank.Count)
             {
-                // Lấy câu hỏi hiện tại từ question_bank
                 if (question_bank[questionIndex] is OpenEndedQuestion openend)
                 {
-                    // Cập nhật nội dung câu hỏi và câu trả lời đúng
                     openend.QuestionText = question;
                     openend.CorrectAnswers = correctAnswers;
 
